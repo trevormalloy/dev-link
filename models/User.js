@@ -15,10 +15,6 @@ const UserSchema = new Schema({
     type: String,
     required: true
   },
-  isDev: {
-    type: Boolean,
-    default: true
-  },
   avatar: {
     type: String
   },
