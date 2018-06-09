@@ -20,7 +20,7 @@ class Landing extends Component {
                 <h1 className="display-3 mb-4">DevLink</h1>
                 <p className="lead">
                   {' '}
-                  Where non profits find developers
+                  Create a developer profile
                 </p>
                 <hr />
                 <Link to="/register" className="btn btn-lg btn-info mr-2">
